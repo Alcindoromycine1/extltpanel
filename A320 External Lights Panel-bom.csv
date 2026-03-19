@@ -1,7 +1,0 @@
-Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
-"Wire","Connecting the switches and controller",9.50,1,9.50,"","Harfington"
-"Solder","To connect the wires",15.00,1,15.00,"","Amazon"
-"10K Resistors","Pull down resistors",0.15,15,2.25,"https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/CF1-4CT26A103J/21685450?gclsrc=aw.ds&gad_source=4&gad_campaignid=17336435733&gbraid=0AAAAADrbLljgPTnUGb4HA4CpIAGm7agAI&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HUaSgpUBXjadtE2SOqviThev0z8zx6WZzkt8kcoYNjT1y-nyV7rWfsaAh9rEALw_wcB","Digikey"
-"2 Position Switches","The other half of the switches",1.35,4,5.40,"https://www.amazon.ca/Mts-102-Position-Switch-Rocker-Button/dp/B0CGQ2FMDS/ref=asc_df_B0CGQ2FMDS?mcid=b4842f5dc8ad3562af6f33282191ddd0&tag=googleshopc0c-20&linkCode=df0&hvadid=706828873409&hvpos=&hvnetw=g&hvrand=6034056902647474716&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000798&hvtargid=pla-2418857196852&psc=1&hvocijid=6034056902647474716-B0CGQ2FMDS-&hvexpln=0&gad_source=1","Amazon"
-"3 Position Switches","Half of the switches in this project are 3 position. I only found them in a pack of 10",1.20,10,12.00,"https://www.amazon.ca/Position-3-Position-Automobile-Appliance-Industrial/dp/B07ZP5QM3L","Amazon"
-"Arduino Leonardo","Main controller",19.00,1,19.00,"https://ca.robotshop.com/products/arduino-leonardo-microcontroller","RobotShop"
